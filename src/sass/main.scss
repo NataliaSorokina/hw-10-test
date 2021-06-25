@@ -1,0 +1,13 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файла с примером HTML-фрагмента
+// @import './example';
+@import './base/common';
+@import './components/toolbar';
+@import './components/theme-switch';
+@import './components/button';
+@import './components/tag-list';
+@import './layout/menu';
