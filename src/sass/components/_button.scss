@@ -14,13 +14,13 @@
   font-weight: 500;
   user-select: none;
   transition: background-color 250ms var(--timing-function);
-}
 
-.button:hover {
-  box-shadow: 0px 2px 1px 1px rgba(0, 0, 0, 0.15);
-  background-color: #1976d2;
-}
+  &:hover {
+    box-shadow: 0px 2px 1px 1px rgba(0, 0, 0, 0.15);
+    background-color: #1976d2;
+  }
 
-.button__icon {
-  margin-right: 8px;
+  &__icon {
+    margin-right: 8px;
+  }
 }

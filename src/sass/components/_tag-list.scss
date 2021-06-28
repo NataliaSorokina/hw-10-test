@@ -4,12 +4,12 @@
   padding: 0;
   margin: 0;
   list-style: none;
-}
 
-.tag-list__item {
-  padding: 4px 8px;
-  margin: 4px;
-  border-radius: 2px;
-  background-color: #3f51b5;
-  color: #fff;
+  &__item {
+    padding: 4px 8px;
+    margin: 4px;
+    border-radius: 2px;
+    background-color: #3f51b5;
+    color: #fff;
+  }
 }
